@@ -1,0 +1,776 @@
+{
+    "Search":[
+       {
+          "Title":"The Seven Deadly Sins",
+          "Year":"2014–2021",
+          "imdbID":"tt3909224",
+          "Type":"series",
+          "Poster":"https://m.media-amazon.com/images/M/MV5BNmIzNTEwMGQtODE1YS00ZWNmLTg1YWUtYTg5YzQ5NTc0YzBjXkEyXkFqcGdeQXVyMTA0MDYyNzA0._V1_SX300.jpg"
+       },
+       {
+          "Title":"The Seven Deadly Sins: Prisoners of the Sky",
+          "Year":"2018",
+          "imdbID":"tt9089294",
+          "Type":"movie",
+          "Poster":"https://m.media-amazon.com/images/M/MV5BODIwNzk5YTAtNDNjZS00YzdmLWI3YzMtZTIwNTljZjcxOGY5XkEyXkFqcGdeQXVyOTYzOTg3MTY@._V1_SX300.jpg"
+       },
+       {
+          "Title":"The Seven Deadly Sins: Cursed by Light",
+          "Year":"2021",
+          "imdbID":"tt13884144",
+          "Type":"movie",
+          "Poster":"https://m.media-amazon.com/images/M/MV5BYjQ3ZGQxNjItNzIwMi00N2ZiLTliY2QtZDU3MTIwZTY0OWU4XkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_SX300.jpg"
+       },
+       {
+          "Title":"The Seven Deadly Sins: Signs of Holy War",
+          "Year":"2016",
+          "imdbID":"tt9135756",
+          "Type":"series",
+          "Poster":"https://m.media-amazon.com/images/M/MV5BNmIzNTEwMGQtODE1YS00ZWNmLTg1YWUtYTg5YzQ5NTc0YzBjXkEyXkFqcGdeQXVyMTA0MDYyNzA0._V1_SX300.jpg"
+       },
+       {
+          "Title":"The Seven Deadly Sins: Grudge of Edinburgh Part 1",
+          "Year":"2022",
+          "imdbID":"tt17677744",
+          "Type":"movie",
+          "Poster":"https://m.media-amazon.com/images/M/MV5BYTEyNjFkZDQtMGI3Mi00MWJlLWI3YmItM2IxOWI5MDRiM2VhXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_SX300.jpg"
+       },
+       {
+          "Title":"The Seven Deadly Sins",
+          "Year":"1962",
+          "imdbID":"tt0056467",
+          "Type":"movie",
+          "Poster":"https://m.media-amazon.com/images/M/MV5BMmFiNzkwNDYtOTY0My00Y2RlLWFmZjEtM2I4NzE4YTE1OWE4XkEyXkFqcGdeQXVyMjQzMzQzODY@._V1_SX300.jpg"
+       },
+       {
+          "Title":"The Magnificent Seven Deadly Sins",
+          "Year":"1971",
+          "imdbID":"tt0067381",
+          "Type":"movie",
+          "Poster":"https://m.media-amazon.com/images/M/MV5BMjMzYzRiOTEtODg2OS00MmM3LWE2M2MtZGQ3YmJhMmIyMzE2XkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SX300.jpg"
+       },
+       {
+          "Title":"Seven Deadly Sins",
+          "Year":"2010",
+          "imdbID":"tt1492152",
+          "Type":"series",
+          "Poster":"https://m.media-amazon.com/images/M/MV5BM2NiYzRlNWQtY2UwYS00YjFlLTgwNjMtMzU0ZDA3NWFhOGVkXkEyXkFqcGdeQXVyNjg0MjI3OTk@._V1_SX300.jpg"
+       },
+       {
+          "Title":"The Seven Deadly Sins: Grudge of Edinburgh Part 2",
+          "Year":"2023",
+          "imdbID":"tt25010142",
+          "Type":"movie",
+          "Poster":"https://m.media-amazon.com/images/M/MV5BNmMwMWQyYWQtNmRjOC00NWE2LWJmY2MtY2NkMTcwZjM1MjU0XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_SX300.jpg"
+       },
+       {
+          "Title":"The Seven Deadly Sins: Four Knights of the Apocalypse",
+          "Year":"2023–",
+          "imdbID":"tt20228550",
+          "Type":"series",
+          "Poster":"https://m.media-amazon.com/images/M/MV5BMTY3NTI1YTUtM2FlZC00N2FiLWI5OGYtZTQ3OWI5MjA0M2M0XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_SX300.jpg"
+       },
+       {
+        "Title":"One Piece",
+        "Year":"1999–",
+        "imdbID":"tt0388629",
+        "Type":"series",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BM2YwYTkwNjItNGQzNy00MWE1LWE1M2ItOTMzOGI1OWQyYjA0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg"
+     },
+     {
+        "Title":"One Piece",
+        "Year":"2023–",
+        "imdbID":"tt11737520",
+        "Type":"series",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BYzczMzllN2UtNDJmOS00MmE5LWE2MWYtNGEwODcwMDc2M2YyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg"
+     },
+     {
+        "Title":"One Piece Film: Red",
+        "Year":"2022",
+        "imdbID":"tt16183464",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BODY4OWM5M2UtM2Y1Yi00YjAyLTlhMDktMDkzZjFmMjI5MmI5XkEyXkFqcGdeQXVyMTA1NjQyNjkw._V1_SX300.jpg"
+     },
+     {
+        "Title":"One Piece Film Z",
+        "Year":"2012",
+        "imdbID":"tt2375379",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZTZlOTc0MmMtMDBmNy00MzU4LWE2Y2MtMWEwN2Y2YThhYzJiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+     },
+     {
+        "Title":"One Piece: Stampede",
+        "Year":"2019",
+        "imdbID":"tt9430698",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BM2MxY2QwYTAtMDM1My00MTc0LWEwZjktMDdjODY2NWJiNDg2XkEyXkFqcGdeQXVyODY3ODQ2MTk@._V1_SX300.jpg"
+     },
+     {
+        "Title":"One Piece Film: Gold",
+        "Year":"2016",
+        "imdbID":"tt5251328",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BYzhhMzM2MTctYThmYy00YTZhLWExNjgtNWY5MGQwMTczMWExL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+     },
+     {
+        "Title":"One Piece: Strong World",
+        "Year":"2009",
+        "imdbID":"tt1485763",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMmIyNGQ3NmEtNGZkNi00MDFhLThhOTMtYjEyN2U1OTc1MjBlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+     },
+     {
+        "Title":"One Piece: The Movie",
+        "Year":"2000",
+        "imdbID":"tt0814243",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BNGU4YzAxOTQtOTk5Yi00MGI3LThiMDMtMzZhMmEwNDBlN2E3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+     },
+     {
+        "Title":"One Piece: Baron Omatsuri and the Secret Island",
+        "Year":"2005",
+        "imdbID":"tt1018764",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BODU0ZTIwYTMtMjQ1MC00YmIyLWJhYjMtMTMzYjM4ZmM0ODRmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+     },
+     {
+        "Title":"One Piece: Clockwork Island Adventure",
+        "Year":"2001",
+        "imdbID":"tt0832449",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMjAwMjk1NWQtMzY3ZS00Nzk1LWFmNTYtNDE5YjZiNGZjY2Q4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Naruto: Shippuden",
+        "Year":"2007–2017",
+        "imdbID":"tt0988824",
+        "Type":"series",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZGFiMWFhNDAtMzUyZS00NmQ2LTljNDYtMmZjNTc5MDUxMzViXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Naruto",
+        "Year":"2002–2007",
+        "imdbID":"tt0409591",
+        "Type":"series",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZmQ5NGFiNWEtMmMyMC00MDdiLTg4YjktOGY5Yzc2MDUxMTE1XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Boruto: Naruto Next Generations",
+        "Year":"2017–2023",
+        "imdbID":"tt6342474",
+        "Type":"series",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BYjM0MDRkYzctMTNhMS00ODYwLTgwMWItZDYxNDlhOGY1YjRlXkEyXkFqcGdeQXVyMzExMzk5MTQ@._V1_SX300.jpg"
+     },
+     {
+        "Title":"The Last: Naruto the Movie",
+        "Year":"2014",
+        "imdbID":"tt3717532",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMjk1NzA4Njg4Ml5BMl5BanBnXkFtZTgwMDgxODQ5MzE@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Boruto: Naruto the Movie",
+        "Year":"2015",
+        "imdbID":"tt4618398",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BNDIwYjg5YzItZTJmMC00YjJhLWFiNjYtMDU5MmQxOTQxODM2XkEyXkFqcGdeQXVyMjc2Nzg5OTQ@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Road to Ninja - Naruto the Movie",
+        "Year":"2012",
+        "imdbID":"tt2290828",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMTQ5MTcyNDYwMV5BMl5BanBnXkFtZTgwNzMzNzc0MjE@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Naruto the Movie: Ninja Clash in the Land of Snow",
+        "Year":"2004",
+        "imdbID":"tt0476680",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BYWFkMTJjODEtMjY2NC00OGRiLThkYjMtMzBjMzVhY2FlZTEyXkEyXkFqcGdeQXVyNjYwMjkwMjg@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Naruto Shippuden the Movie: Blood Prison",
+        "Year":"2011",
+        "imdbID":"tt1999167",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMDgyZmRkYjUtMWExNS00NDQyLTliZTMtOTkwY2M3ZWU0ZjNmXkEyXkFqcGdeQXVyMjc2Nzg5OTQ@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Naruto Shippuden: The Movie - Bonds",
+        "Year":"2008",
+        "imdbID":"tt1160524",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BNTE2ODAyNTkxNl5BMl5BanBnXkFtZTgwNTAzMjA2MDE@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Naruto the Movie 2: Legend of the Stone of Gelel",
+        "Year":"2005",
+        "imdbID":"tt0791188",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMDE3NjY3Y2MtODE4YS00YzFiLThhMTMtY2Q1NTZkODE4M2NlXkEyXkFqcGdeQXVyNjYwMjkwMjg@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Tokyo Ghoul",
+        "Year":"2014",
+        "imdbID":"tt3741634",
+        "Type":"series",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BOTM5ZjA2YWMtYjY3Ny00ZDU1LTk1NjYtMzhjMGY5ZmZkMzgwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Tokyo Ghoul: Root A",
+        "Year":"2015",
+        "imdbID":"tt5497534",
+        "Type":"series",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BOWZmMDdhNTktZTRlZC00YzExLTk2ZTAtM2IxNjc4YzBlYmY0XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Tokyo Ghoul: re",
+        "Year":"2018",
+        "imdbID":"tt8213522",
+        "Type":"series",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BY2M4MGVjODgtYmY4OS00N2U4LTlkNzUtY2NjYzRiMTI3YjgwXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Tokyo Ghoul",
+        "Year":"2017",
+        "imdbID":"tt5815944",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMzM3ZTczNmYtYjAyOS00YTc4LWExNTQtNjdkZWRiM2VkODVlXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Tokyo Ghoul: Jack",
+        "Year":"2015",
+        "imdbID":"tt5265536",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZjFjNTBhNGMtNjZhOS00MGE0LTljZTUtMDljN2JiODExOGQ5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Tokyo Ghoul: Pinto",
+        "Year":"2015",
+        "imdbID":"tt5600616",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BM2ViMDk4ZDUtM2EzMS00YTA0LWFkYTQtZWQ1ODU2MGNmYjBjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Tokyo Ghoul: Re - Anime",
+        "Year":"2018",
+        "imdbID":"tt8046356",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BNGU5ZDA0MDUtMDBlYS00OGIyLThjYTYtMmRkODc0MGYyNDE5XkEyXkFqcGdeQXVyMjI2ODkzODY@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Tokyo Ghoul: 'S'",
+        "Year":"2019",
+        "imdbID":"tt9179260",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BOTg3MWY4YjMtZTliMS00NDEzLTgxNWMtOTJhYjIyYmY0NDI5XkEyXkFqcGdeQXVyMTIzMjUxMg@@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Demon Slayer: Kimetsu no Yaiba",
+        "Year":"2019–",
+        "imdbID":"tt9335498",
+        "Type":"series",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BYTIxNjk3YjItYmYzMC00ZTdmLTk0NGUtZmNlZTA0NWFkZDMwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train",
+        "Year":"2020",
+        "imdbID":"tt11032374",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BODI2NjdlYWItMTE1ZC00YzI2LTlhZGQtNzE3NzA4MWM0ODYzXkEyXkFqcGdeQXVyNjU1OTg4OTM@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Demon Slayer: Kimetsu no Yaiba - Tsuzumi Mansion Arc",
+        "Year":"2021",
+        "imdbID":"tt16492678",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BNThhYWViMjMtNDMzZC00YjliLTllYWYtYTdlOTM1MmNjMDE4XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Demon Slayer: Kimetsu no Yaiba - Mt. Natagumo Arc",
+        "Year":"2020",
+        "imdbID":"tt14888874",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BN2EwNTUwYWItZTY4ZC00N2Q1LWFhZWQtNjMwMDBkZDVmYThjXkEyXkFqcGdeQXVyOTA2OTk0MDg@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Demon Slayer: Kimetsu No Yaiba - To the Swordsmith Village",
+        "Year":"2023",
+        "imdbID":"tt26537229",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZDZiZTZhMzgtYTY0ZC00OGUyLWE2NzgtMmM4MjA1YjUxN2YyXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_SX300.jpg"
+     },
+     {
+        "Title":"Demon Slayer: Kimetsu no Yaiba - The Hashira Meeting Arc",
+        "Year":"2020",
+        "imdbID":"tt14882302",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZGVlNzJkN2QtYmQ2YS00MmUzLTk0MjYtOWQ2YmVhZjMyNGZjXkEyXkFqcGdeQXVyOTA2OTk0MDg@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Demon Slayer: Kimetsu no Yaiba - Asakusa Arc",
+        "Year":"2021",
+        "imdbID":"tt16492636",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BNTJmM2UzZWMtOTliOC00YjI0LWE0YTQtN2EwN2MyYmE5NTdkXkEyXkFqcGdeQXVyOTA2OTk0MDg@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Demon Slayer: Kimetsu no Yaiba - Sibling's Bond",
+        "Year":"2019",
+        "imdbID":"tt14888860",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BNmU0NjY3ZDAtYWVkNC00ZjI2LTk5MGItNGRiZTdlYWQyNjQxXkEyXkFqcGdeQXVyMTA5NzUzODM4._V1_SX300.jpg"
+     },
+     {
+        "Title":"Immortal Demon Slayer",
+        "Year":"2017",
+        "imdbID":"tt6513406",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BYThhNTQ4ZmEtYjEyMS00NjBhLWI5MGYtNjY1ZmJjM2UwZjVlXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Demon Slayer: Kimetsu No Yaiba - To the Hashira Training",
+        "Year":"2024",
+        "imdbID":"tt30395619",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BNWFkNzI5NDQtY2QyZS00NGE2LWJiNDEtMTI5ZTFmNDE0ZjcwXkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Assasination Classroom",
+        "Year":"2015–2016",
+        "imdbID":"tt27121273",
+        "Type":"series",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMTNjNzAwODEtZTFhNC00YzI1LWI2ZGItZDIzYWQ3MjFlNWZkXkEyXkFqcGdeQXVyMTA1NDgyMDYz._V1_SX300.jpg"
+     },
+     {
+        "Title":"Vinland Saga",
+        "Year":"2019–2023",
+        "imdbID":"tt10233448",
+        "Type":"series",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BNzQwODI4Y2YtNjFmNC00NTExLWE0NzYtMTUzNjA0YzBhY2YyXkEyXkFqcGdeQXVyMTMxMTYzNDkz._V1_SX300.jpg"
+     },
+     {
+        "Title":"Blind Wave: Vinland Saga Reaction",
+        "Year":"2021–",
+        "imdbID":"tt15515120",
+        "Type":"series",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZjNhOTFkNGItMTFlYS00OWI4LWFjODgtZTFhNzJmYmFkMDNkXkEyXkFqcGdeQXVyMTExMTAxNjA2._V1_SX300.jpg"
+     },
+     {
+        "Title":"Bleach",
+        "Year":"2004–2023",
+        "imdbID":"tt0434665",
+        "Type":"series",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZjE0YjVjODQtZGY2NS00MDcyLThhMDAtZGQwMTZiOWNmNjRiXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Bleach: Thousand-Year Blood War",
+        "Year":"2022–",
+        "imdbID":"tt14986406",
+        "Type":"series",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BODFmYTUwYzMtM2M2My00NGExLWIzMDctYmRjNTNhZDc4MGI2XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_SX300.jpg"
+     },
+     {
+        "Title":"Bleach",
+        "Year":"2018",
+        "imdbID":"tt5979872",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMjM1MmU1MmItOWY5MS00NmRjLThkMGMtMDQwOTliMWIxZTdlXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Soaked in Bleach",
+        "Year":"2015",
+        "imdbID":"tt3253624",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMTQ3MTk5MDQ0N15BMl5BanBnXkFtZTgwMTgwOTg2NTE@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Bleach: Memories of Nobody",
+        "Year":"2006",
+        "imdbID":"tt1105263",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BNTI3MzA0NzM0NF5BMl5BanBnXkFtZTcwODY4MjY5MQ@@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Bleach the Movie 2: The Diamond Dust Rebellion",
+        "Year":"2007",
+        "imdbID":"tt1148261",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BODAyNjNjYjUtZTA0MS00NjI0LThlYmMtODQ4MDMwODdiMmMyXkEyXkFqcGdeQXVyMTA1NjQyNjkw._V1_SX300.jpg"
+     },
+     {
+        "Title":"Bleach the Movie: Hell Verse",
+        "Year":"2010",
+        "imdbID":"tt1785394",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZWI1MTkxMmQtNjgyZC00YjhhLTlhZGQtYzcwODg5MDkzMjYzXkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_SX300.jpg"
+     },
+     {
+        "Title":"Bleach: Fade to Black, I Call Your Name",
+        "Year":"2008",
+        "imdbID":"tt1339302",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZmNkODUwNmUtZjdmNy00ZTAzLThmNjAtYjIyM2IyY2FlOGY3XkEyXkFqcGdeQXVyMTA1NjQyNjkw._V1_SX300.jpg"
+     },
+     {
+        "Title":"Bleach: The Sealed Sword Frenzy",
+        "Year":"2006",
+        "imdbID":"tt8421292",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMzQ5NWE5ZDUtNmQwNi00OWFmLWI5NDItZmI5NWQzZDdkNTk2XkEyXkFqcGdeQXVyNjM1ODI1MjE@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Bleach",
+        "Year":"2022",
+        "imdbID":"tt4139336",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMTUzMzkxNzg4Nl5BMl5BanBnXkFtZTgwMTYxNjk1NDE@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Pokémon: Detective Pikachu",
+        "Year":"2019",
+        "imdbID":"tt5884052",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMDkxNzRmNDYtMDY0OS00N2JhLTkzZWUtMWE3MzZkNDk1MmJiXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Pokémon",
+        "Year":"1997–2023",
+        "imdbID":"tt0168366",
+        "Type":"series",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BNDcwZDc2NTEtMzU0Ni00YTQyLWIyYTQtNTI3YjM0MzhmMmI4XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Pokémon: The First Movie - Mewtwo Strikes Back",
+        "Year":"1998",
+        "imdbID":"tt0190641",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZGM3MjQ3NTQtNzRiZi00MDUzLWFjYjEtZWJjMjUwYzExYjRiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Pokémon the Movie 2000",
+        "Year":"1999",
+        "imdbID":"tt0210234",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BNzE1NjBiODAtNDVhNS00ZTI1LTg4ZjUtZTk3OWVhODljMjNjXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Pokémon 3 the Movie: Spell of the Unown",
+        "Year":"2000",
+        "imdbID":"tt0235679",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMTk0NzM3MDY1OV5BMl5BanBnXkFtZTYwNTkwODc5._V1_SX300.jpg"
+     },
+     {
+        "Title":"Pokemon 4Ever: Celebi - Voice of the Forest",
+        "Year":"2001",
+        "imdbID":"tt0287635",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZDZiYjc3MWYtODE5Mi00MDM5LWFkZTAtNjAzZmUxMzc4ZGQxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Pokémon the Movie: I Choose You!",
+        "Year":"2017",
+        "imdbID":"tt6595896",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BM2U3NmI4YzItYmRiNi00M2UxLWExNTYtNDZkZmJlNzlmM2M3XkEyXkFqcGdeQXVyNDkzMjE0NDE@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Pokémon Heroes",
+        "Year":"2002",
+        "imdbID":"tt0347791",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BODg3OTljOTktNmI3Ny00MDczLTk2NGItNWRiOTE2YjQ1OWI0XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Pokémon: Mewtwo Strikes Back - Evolution",
+        "Year":"2019",
+        "imdbID":"tt8856470",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BYTlmMjc0YzgtMDlmYy00NGY4LTgyOTAtODI2MzllNWI1ODBkXkEyXkFqcGdeQXVyMTMxNDQyNjM5._V1_SX300.jpg"
+     },
+     {
+        "Title":"Pokémon: Lucario and the Mystery of Mew",
+        "Year":"2005",
+        "imdbID":"tt0875609",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMTUxOTcwNjAwMl5BMl5BanBnXkFtZTgwMjc2MzQ2NjE@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Dragonball Evolution",
+        "Year":"2009",
+        "imdbID":"tt1098327",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BYTUyNjZkMjEtYmQ5OS00NzljLThiMmQtNWIwNTM1YjUyOWNjXkEyXkFqcGdeQXVyMTI0MzA4NTgw._V1_SX300.jpg"
+     },
+     {
+        "Title":"DragonBall Z: The Saiyan Saga",
+        "Year":"2013",
+        "imdbID":"tt2857478",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZDA0YWYxN2YtZTcwNC00OGY2LWE4OWEtZTFiMjc4OGNhMWJhXkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Dragonball Evolution",
+        "Year":"2009",
+        "imdbID":"tt1394192",
+        "Type":"game",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BOTAyNTUxODgwNl5BMl5BanBnXkFtZTcwNDU3MDY0Mg@@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Dragonball Legends",
+        "Year":"2018",
+        "imdbID":"tt8212776",
+        "Type":"game",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BYzA3ZWQwNTQtODY1OS00MmVhLThiN2MtYmQyN2JiYzQ5NGM5XkEyXkFqcGdeQXVyNzQzNDM3NTI@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Dragonball: Gohanverse",
+        "Year":"2019–",
+        "imdbID":"tt15083824",
+        "Type":"series",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BYjE2ZjEwMDAtN2FhYS00N2U0LWExMDEtODc3YWExYjJlOGM5XkEyXkFqcGdeQXVyNjg1MDY3OTA@._V1_SX300.jpg"
+     },
+     {
+        "Title":"A Dragonball Gohanverse Movie: Android 21",
+        "Year":"2021",
+        "imdbID":"tt15372138",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BYWE3ZmQ0N2QtODdlNC00ZDc1LWFjNDAtYWYxZTk5NTBmZWY5XkEyXkFqcGdeQXVyMTIzMzcwODM1._V1_SX300.jpg"
+     },
+     {
+        "Title":"The Majin Buu Saga in 5 Minutes (Dragonball Z Live Action)",
+        "Year":"2022",
+        "imdbID":"tt21158996",
+        "Type":"movie",
+        "Poster":"N/A"
+     },
+     {
+        "Title":"The Frieza Saga in 5 Minutes (Dragonball Z Live Action)",
+        "Year":"2015",
+        "imdbID":"tt21277676",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZjY4ZWE3NGEtNTVkZS00ZWNkLWE4YTItM2Y5OTJjZTEzYzdmXkEyXkFqcGdeQXVyMTIzNDEwODY@._V1_SX300.jpg"
+     },
+     {
+        "Title":"The Cell Saga in 5 Minutes (Dragonball Z Live Action)",
+        "Year":"2018",
+        "imdbID":"tt21293958",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMGNmZTk2NTEtZDI0OC00MTVkLWI5MTMtMzEyZWZmNWJlMThjXkEyXkFqcGdeQXVyMTIzNDEwODY@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Goku with a GoPro (Real Life DragonBall Z)",
+        "Year":"2014",
+        "imdbID":"tt9750440",
+        "Type":"movie",
+        "Poster":"N/A"
+     },
+     {
+        "Title":"The Super Mario Bros. Movie",
+        "Year":"2023",
+        "imdbID":"tt6718170",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BOTJhNzlmNzctNTU5Yy00N2YwLThhMjQtZDM0YjEzN2Y0ZjNhXkEyXkFqcGdeQXVyMTEwMTQ4MzU5._V1_SX300.jpg"
+     },
+     {
+        "Title":"Super Mario Bros.",
+        "Year":"1993",
+        "imdbID":"tt0108255",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZGVmZTUyZDAtYjg0MC00NmE5LWE2OTAtM2FjNGI1NWUyMzE0XkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Mario",
+        "Year":"2018",
+        "imdbID":"tt6999052",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BYjI4YjJkZjItN2I0MC00NjQyLWE2YmMtMGNhNGM1N2QzY2IzXkEyXkFqcGdeQXVyMjM4MTAwMjI@._V1_SX300.jpg"
+     },
+     {
+        "Title":"The Super Mario Bros. Super Show!",
+        "Year":"1989",
+        "imdbID":"tt0096707",
+        "Type":"series",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BODU3MzMxNjEtYzk5Zi00NDFkLTkzNjYtMTJlZjFlOTA4NzVhXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_SX300.jpg"
+     },
+     {
+        "Title":"Super Mario Bros. 3",
+        "Year":"1988",
+        "imdbID":"tt0249174",
+        "Type":"game",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BYThhMWU3MDktYWE2OS00ZmUzLWEzZWItYTE5NDY5ZTA2MDRkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Super Mario Galaxy",
+        "Year":"2007",
+        "imdbID":"tt0879874",
+        "Type":"game",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BOTc2ZTRkMzgtNjlmNi00NDVlLTg4NjAtZjY2NWU4ODJhNDYzXkEyXkFqcGdeQXVyNTM0MjE5NTc@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Super Mario 64",
+        "Year":"1996",
+        "imdbID":"tt0204657",
+        "Type":"game",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BYjI4NWEwMTItN2VjZi00MmYwLTkzM2MtMjQyOTc5MzRhZDM2XkEyXkFqcGdeQXVyNjg3MDM4Mzc@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Super Mario Bros.",
+        "Year":"1985",
+        "imdbID":"tt0177266",
+        "Type":"game",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMGZlYzVkODYtMGRkYS00MTJkLWJjZDItN2ZhNTU4YjdhMDhmXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Super Mario Bros. 2",
+        "Year":"1988",
+        "imdbID":"tt0204659",
+        "Type":"game",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMWM2MWMxMjgtMDRhMS00NDgwLWFjNWEtNzMxODI5ZTExYTdlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Mario Kart 64",
+        "Year":"1996",
+        "imdbID":"tt0234202",
+        "Type":"game",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMzc0ZDc4NWQtYmI3ZC00YWEwLWJjMjYtNjRkZmU3MzU2Yzc2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+     },
+     {
+        "Title":"The Legend of Zelda: Ocarina of Time",
+        "Year":"1998",
+        "imdbID":"tt0184666",
+        "Type":"game",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZjc3MmMzNGItYmEzYy00MWFhLWI0NDQtMWE3Y2Q1NjE1OWRlXkEyXkFqcGdeQXVyNzcyMjAwNTE@._V1_SX300.jpg"
+     },
+     {
+        "Title":"The Legend of Zelda: Breath of the Wild",
+        "Year":"2017",
+        "imdbID":"tt3253986",
+        "Type":"game",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZTI3OTQ3MjQtNTk3YS00ZDM5LWExOGEtMDAwN2MyYjBmOTIxXkEyXkFqcGdeQXVyNTk1ODMyNjA@._V1_SX300.jpg"
+     },
+     {
+        "Title":"The Legend of Zelda: Twilight Princess",
+        "Year":"2006",
+        "imdbID":"tt0441877",
+        "Type":"game",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMzYwMTU2MjUzMV5BMl5BanBnXkFtZTgwMTA5MTk4MDE@._V1_SX300.jpg"
+     },
+     {
+        "Title":"The Legend of Zelda: A Link to the Past",
+        "Year":"1991",
+        "imdbID":"tt0263641",
+        "Type":"game",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMDNlYWY4NmEtNWUwOC00YWE1LWJhNzgtMzVhNDdkYTZhZGZhXkEyXkFqcGdeQXVyMTA3NjAwMDc4._V1_SX300.jpg"
+     },
+     {
+        "Title":"The Legend of Zelda: The Wind Waker",
+        "Year":"2002",
+        "imdbID":"tt0325724",
+        "Type":"game",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZGFlNmY3N2QtNjM0Mi00NGQxLTgwNWUtNzRhZjkwY2U0N2U3XkEyXkFqcGdeQXVyMTA3NjAwMDc4._V1_SX300.jpg"
+     },
+     {
+        "Title":"The Legend of Zelda: Majora's Mask",
+        "Year":"2000",
+        "imdbID":"tt0264790",
+        "Type":"game",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZGMyNjFlNjgtNjFkMy00Y2Q0LWI2ZDItNTdhMTcyMzllZjMxXkEyXkFqcGdeQXVyMTA3NjAwMDc4._V1_SX300.jpg"
+     },
+     {
+        "Title":"The Legend of Zelda",
+        "Year":"1989",
+        "imdbID":"tt0832330",
+        "Type":"series",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMjRiZTMyNGYtNGFmZS00YTNiLWFmN2QtZGE3Nzg5NjM2ODQ4XkEyXkFqcGdeQXVyNzMwOTY2NTI@._V1_SX300.jpg"
+     },
+     {
+        "Title":"The Legend of Zelda",
+        "Year":"1986",
+        "imdbID":"tt0176925",
+        "Type":"game",
+        "Poster":"N/A"
+     },
+     {
+        "Title":"The Legend of Zelda: The Wind Waker HD",
+        "Year":"2013",
+        "imdbID":"tt3206522",
+        "Type":"game",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZDY2NmVkMzctODYyZC00MWU2LTk0ODMtMDE3ZTU1ZTAwNDE1XkEyXkFqcGdeQXVyNjg3MDM4Mzc@._V1_SX300.jpg"
+     },
+     {
+        "Title":"The Legend of Zelda: A Link Between Worlds",
+        "Year":"2013",
+        "imdbID":"tt2960886",
+        "Type":"game",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZDI2M2IwMDItOTU4MS00YzdjLWJmYjItMzA3MjJjMDk2YjBiXkEyXkFqcGdeQXVyNjY5NTM5MjA@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Kirby: Right Back at Ya!",
+        "Year":"2001–2003",
+        "imdbID":"tt0338621",
+        "Type":"series",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BY2JiMGEyMTItODExYS00MWQyLWI5YmMtZDFhYzE0NzY2NWJiXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_SX300.jpg"
+     },
+     {
+        "Title":"Kirby Super Star",
+        "Year":"1996",
+        "imdbID":"tt0420676",
+        "Type":"game",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BN2RiMzBiYjctOWIyZi00MDI0LWE0MzUtZWY4ZTdjYjEwYzc1XkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Kirby Buckets",
+        "Year":"2014–2017",
+        "imdbID":"tt3544772",
+        "Type":"series",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BOGVjODBhZmQtNDhhYy00OGMwLTgwMmMtZWEwMTViNzNhYzM4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg"
+     },
+     {
+        "Title":"The Haunted House on Kirby Road",
+        "Year":"2016",
+        "imdbID":"tt4765188",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMzMyYzc0NDItYjlhNC00YzkxLWJmODMtOWQwM2Y4ZDQ1ZjJjXkEyXkFqcGdeQXVyNTcwMTE0Mjg@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Kirby: Squeak Squad",
+        "Year":"2006",
+        "imdbID":"tt1339658",
+        "Type":"game",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMjljZTFjZjQtNjVlZC00MzRhLWE4YTAtYzUwNzk1ZDhhMzk0XkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Kirby: Canvas Curse",
+        "Year":"2005",
+        "imdbID":"tt0795412",
+        "Type":"game",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZGY4N2I3MWMtOGIyMS00YWZhLWFmNmMtZDk1NTYxNjk4MjQzXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Cameo Kirby",
+        "Year":"1923",
+        "imdbID":"tt0013909",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BY2E1YjMxMzMtOTI2OS00MzhmLThlYmYtNDE3MzM2MTU0M2EzXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Kirby: Triple Deluxe",
+        "Year":"2014",
+        "imdbID":"tt3334820",
+        "Type":"game",
+        "Poster":"https://images-eu.ssl-images-amazon.com/images/I/810mLFX+52L._AC_UL750_SR750,750_.jpg"
+     },
+     {
+        "Title":"Kirby & the Amazing Mirror",
+        "Year":"2004",
+        "imdbID":"tt1339545",
+        "Type":"game",
+        "Poster":"https://upload.wikimedia.org/wikipedia/en/0/0b/Kirby_%26_the_Amazing_Mirror.jpg"
+     }
+    ],
+    "totalResults":"40",
+    "Response":"True"
+ }
